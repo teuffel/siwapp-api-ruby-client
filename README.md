@@ -2,7 +2,7 @@
 Siwapp (online invoice management) API Ruby client
 
 ## Getting started
-`git clone https://github.com/Sology/siwapp-api-ruby-client.git`
+`git clone https://github.com/teuffel/siwapp-api-ruby-client.git`
 
 Change `host` to your Siwapp application in `siwapp_api.json` file.
 
